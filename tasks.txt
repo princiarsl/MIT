@@ -20,10 +20,23 @@ Insciption pédagogique
 			Validation:
 			Génération badge QRCode)
 			
-Front end (public)  HTML/CSS 
+Front end (public)  HTML/CSS bootstrap/ adminLTE
 
 Back end (code fonctionnalité)
 
 		GITHUB
 		déposer code
 
+A installer: apache2 mysql-server php-mysql eclipse-php
+apt-get install apache2 php-mysql phpmyadmin mysql-server
+A télécharger: adminLTE/ bootstrap/ JQUERY (code javascript)/ 
+
+
+								Server 
+									sITE /CONTENUS( html, CSS, IMAGE, PHP,Java,.....)
+								
+								
+								
+								
+				Poste 1		pOSTE2			p3			......
+				HTML/CSS/image (fichiers statique)navigateur Javascscript (JS)
