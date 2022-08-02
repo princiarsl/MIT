@@ -1,0 +1,29 @@
+Serie C/S
+ Mention MIT
+ 
+	
+
+Insciption pédagogique
+		
+		- Etudiants séléctionnés
+
+		- N° bacc	Année	Nom/prénom
+		
+		Inscription	 (Note/présence)
+		
+		
+		Partie étudiant (en ligne: N° bacc	Année	DDN: public)
+		-> Publication liste officielle)
+		
+		
+		Partie sécretariat ( admin login/pwd)
+			Validation:
+			Génération badge QRCode)
+			
+Front end (public)  HTML/CSS 
+
+Back end (code fonctionnalité)
+
+		GITHUB
+		déposer code
+
